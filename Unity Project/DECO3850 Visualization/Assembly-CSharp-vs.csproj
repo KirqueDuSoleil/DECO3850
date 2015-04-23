@@ -47,6 +47,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\cubeScript.cs" />
+     <Compile Include="Assets\scene1Script.cs" />
+     <Compile Include="Assets\scene2Script.cs" />
+     <Compile Include="Assets\scene3Script.cs" />
+     <Compile Include="Assets\scene4Script.cs" />
+     <Compile Include="Assets\staticHolderScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
